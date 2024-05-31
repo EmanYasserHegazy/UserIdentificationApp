@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Identification App</string>
+    <string name="splash_screen_image">splash</string>
+    <string name="add_user">Add User</string>
+    <string name="user_name">User Name</string>
+    <string name="user_age">Age</string>
+    <string name="job_title">Job Title</string>
+    <string name="submit">Submit</string>
+    <string name="no_users_found">No Users Found</string>
+    <string name="user_name_validation_error_mssg">Please add user name</string>
+    <string name="job_title_validation_error_mssg">Please add your job title</string>
+    <string name="user_details_title">User Details</string>
+</resources>
